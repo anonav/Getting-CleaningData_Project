@@ -1,6 +1,6 @@
 #(Coursera) Getting & Cleaning Data Project::
 
-##FILES SUBMITTED TO GITHUB REPOSITIRY
+##FILES SUBMITTED TO GITHUB REPOSITORY
 1) README.md (this file)
 
 2) CodeBook.md
