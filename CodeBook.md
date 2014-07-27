@@ -1,25 +1,25 @@
 #Variable/Column names and description for tidy data
 ========================================================
 
- ## Specific components of column names 
+ ##**Specific components of column names** 
  
-       t: in time domain     
-       f: in frequency domain (using FFT)    
-     Acc: linear acceleration as measured by accelerometer  
-    Gyro: angular velocity as measured by gyroscope  
-    Body: related to subject's body  
- Gravity: related to Earth's gravity   
-    Jerk: jerk signals obtained as a result of analysis  
-     Mag: magnitude of the signal  
-  mean(): mean of the signal  
-   std(): standard deviation of the signal    
-       X: along X-axis   
-       Y: along Y-axis  
-       Z: along Z-axis  
+          t: in time domain     
+          f: in frequency domain (using FFT)    
+        Acc: linear acceleration as measured by accelerometer  
+       Gyro: angular velocity as measured by gyroscope  
+       Body: related to subject's body 
+    Gravity: related to Earth's gravity   
+       Jerk: jerk signals obtained as a result of analysis 
+        Mag: magnitude of the signal 
+     mean(): mean of the signal 
+      std(): standard deviation of the signal    
+          X: along X-axis   
+          Y: along Y-axis  
+          Z: along Z-axis  
  
  
  
- ## Column names (Total: 68)
+ ##**Column names (Total: 68)**
  
  1."subjectID"  
   An identifier of the subject who carried out the experiment
